@@ -15,4 +15,4 @@ ua.php
 上钩感知需要绑个小工具，运行flash的时候post一下ua.php就可以实现，
 我是用的c写了一个小工具，由于url不一样，无法提供！
 
-### 感谢Se7en提供的原版项目
+### 感谢Se7en提供的原版项目https://github.com/r00tSe7en/Flash-Pop
